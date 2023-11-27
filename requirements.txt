@@ -1,0 +1,7 @@
+numpy==1.26.1
+pandas==2.1.2
+streamlit
+pickle
+scikit-learn
+pip== 23.3.1
+matplotlib
